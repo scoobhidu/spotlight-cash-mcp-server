@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e7e64bd-d840-4187-8690-d6216343861d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/cash-mcp-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.whitesource" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/complete_portfolio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headers_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_files/BFO_symbols.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_files/BSE_symbols.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_files/NFO_symbols.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_files/NSE_symbols.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offline_installers/final_mac_installer.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offline_installers/windows.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server_mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chart_router/bse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chart_router/indices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chart_router/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chart_router/nfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chart_router/nse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fno_marketwatch/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fno_marketwatch/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/future_stocks/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/global_indices/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/global_indices/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/holdings/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/holdings/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/indian_indices/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/indian_news/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/indian_news/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ipo/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ipo/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/option_chain/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/options/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/options/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orders/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orders/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/portfolio_analytics/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/positions/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/positions/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reports/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reports/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sectoral_indices/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sectoral_indices/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stock_corporate_actions/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stock_corporate_actions/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stock_financials/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stock_financials/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stock_fundamentals/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stock_fundamentals/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stock_marketwatch/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stock_marketwatch/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stock_overview/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stock_overview/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stock_technicals/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stock_technicals/mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/valuation/miscellaneous_tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/volume_boomers/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/volume_boomers/mcp.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="352WJATsvtC5GjvuZ7iYJTa2Muk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/rajatkr/PycharmProjects/cash-mcp-server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/offline_installers" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e7e64bd-d840-4187-8690-d6216343861d" name="Changes" comment="" />
+      <created>1762308573003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762308573003</updated>
+      <workItem from="1762308574271" duration="13000" />
+      <workItem from="1762308604219" duration="1314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

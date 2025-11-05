@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  app1:
+    build: .
+    container_name: mcp-server-date
+    command: python server_data.py
+    ports:
+      - "7000:10000"
+
+  app2:
+    build: .
+    container_name: mcp-server
+    command: python server_mcp.py
+    ports:
+      - "7001:10001"
